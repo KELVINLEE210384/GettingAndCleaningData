@@ -8,7 +8,7 @@ This repository holds one R script 'run_analysis.R' and it documentations. The R
 
 ##Steps to run 'run_analysis.R'
 1. Put 'run_analysis.R' in your current working directory.
-2. Run 'source("run.analysis.R").
+2. Run source("run.analysis.R").
 
 ##Output
 The tidy data set will be ouput as a text file 'average_df.txt'.
